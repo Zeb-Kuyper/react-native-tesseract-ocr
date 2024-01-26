@@ -18,11 +18,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/abhi-nav/react-native-tesseract-ocr.git",
-		"baseUrl": "https://github.com/abhi-nav/react-native-tesseract-ocr"
+		"url": "git+https://github.com/Zeb-Kuyper/react-native-tesseract-ocr.git",
+		"baseUrl": "https://github.com/Zeb-Kuyper/react-native-tesseract-ocr"
 	},
 	"bugs": {
-		"url": "https://github.com/abhi-nav/react-native-tesseract-ocr/issues"
+		"url": "https://github.com/Zeb-Kuyper/react-native-tesseract-ocr/issues"
 	},
 	"keywords": [
 		"react-native",
@@ -39,7 +39,7 @@
 	"licenseFilename": "LICENSE",
 	"readmeFilename": "README.md",
 	"peerDependencies": {
-		"react": "17.0.1",
+		"react": "18.2.0",
 		"react-native": ">=0.60.0-rc.0 <1.0.x"
 	},
 	"devDependencies": {
@@ -47,7 +47,7 @@
 		"@commitlint/config-conventional": "^8.3.4",
 		"cz-conventional-changelog": "^3.1.0",
 		"husky": "^4.2.5",
-		"react": "17.0.1",
+		"react": "18.2.0",
 		"react-native": "^0.61.5",
 		"standard-version": "^8.0.2"
 	},
